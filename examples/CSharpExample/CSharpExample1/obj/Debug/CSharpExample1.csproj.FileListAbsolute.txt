@@ -1,0 +1,6 @@
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\obj\Debug\ResolveAssemblyReference.cache
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\bin\Debug\CSharpExample1.exe
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\bin\Debug\CSharpExample1.pdb
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\obj\Debug\CSharpExample1.exe
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\obj\Debug\CSharpExample1.pdb
+E:\HDF5\DotNet\trunk\examples\CSharpExample\CSharpExample1\bin\Debug\HDF5DotNet.dll

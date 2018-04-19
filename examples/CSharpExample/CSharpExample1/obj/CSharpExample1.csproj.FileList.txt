@@ -1,0 +1,8 @@
+bin\Debug\CSharpExample1.exe
+bin\Debug\CSharpExample1.pdb
+bin\Debug\HDF5DotNet.dll
+bin\Debug\HDF5DotNet.pdb
+bin\Debug\HDF5DotNet.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharpExample1.exe
+obj\Debug\CSharpExample1.pdb
